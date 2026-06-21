@@ -1,0 +1,418 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ApiService\\InsuranceCompany.ApiService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ApiService\\InsuranceCompany.ApiService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ApiService\\InsuranceCompany.ApiService.csproj",
+        "projectName": "InsuranceCompany.ApiService",
+        "projectPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ApiService\\InsuranceCompany.ApiService.csproj",
+        "packagesPath": "C:\\Users\\macak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ApiService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\macak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.BL\\InsuranceCompany.BL.csproj": {
+                "projectPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.BL\\InsuranceCompany.BL.csproj"
+              },
+              "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Models\\InsuranceCompany.Model.csproj": {
+                "projectPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Models\\InsuranceCompany.Model.csproj"
+              },
+              "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ServiceDefaults\\InsuranceCompany.ServiceDefaults.csproj": {
+                "projectPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ServiceDefaults\\InsuranceCompany.ServiceDefaults.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.BL\\InsuranceCompany.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.BL\\InsuranceCompany.BL.csproj",
+        "projectName": "InsuranceCompany.BL",
+        "projectPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.BL\\InsuranceCompany.BL.csproj",
+        "packagesPath": "C:\\Users\\macak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\macak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Database\\InsuranceCompany.Database.csproj": {
+                "projectPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Database\\InsuranceCompany.Database.csproj"
+              },
+              "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Models\\InsuranceCompany.Model.csproj": {
+                "projectPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Models\\InsuranceCompany.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Database\\InsuranceCompany.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Database\\InsuranceCompany.Database.csproj",
+        "projectName": "InsuranceCompany.Database",
+        "projectPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Database\\InsuranceCompany.Database.csproj",
+        "packagesPath": "C:\\Users\\macak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\macak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Models\\InsuranceCompany.Model.csproj": {
+                "projectPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Models\\InsuranceCompany.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Models\\InsuranceCompany.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Models\\InsuranceCompany.Model.csproj",
+        "projectName": "InsuranceCompany.Model",
+        "projectPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Models\\InsuranceCompany.Model.csproj",
+        "packagesPath": "C:\\Users\\macak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\macak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ServiceDefaults\\InsuranceCompany.ServiceDefaults.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ServiceDefaults\\InsuranceCompany.ServiceDefaults.csproj",
+        "projectName": "InsuranceCompany.ServiceDefaults",
+        "projectPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ServiceDefaults\\InsuranceCompany.ServiceDefaults.csproj",
+        "packagesPath": "C:\\Users\\macak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ServiceDefaults\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\macak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http.Resilience": {
+              "target": "Package",
+              "version": "[9.9.0, )"
+            },
+            "Microsoft.Extensions.ServiceDiscovery": {
+              "target": "Package",
+              "version": "[9.5.0, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.12.0, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.12.0, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.12.0, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.12.0, )"
+            },
+            "OpenTelemetry.Instrumentation.Runtime": {
+              "target": "Package",
+              "version": "[1.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

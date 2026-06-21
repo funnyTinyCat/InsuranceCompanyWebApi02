@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEF0974-BCE6-E080-6676-9F25186277B9}|InsuranceCompany.ApiService\\InsuranceCompany.ApiService.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.apiservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEF0974-BCE6-E080-6676-9F25186277B9}|InsuranceCompany.ApiService\\InsuranceCompany.ApiService.csproj|solutionrelative:insurancecompany.apiservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\components\\pages\\product\\indexproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\components\\pages\\product\\indexproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEF0974-BCE6-E080-6676-9F25186277B9}|InsuranceCompany.ApiService\\InsuranceCompany.ApiService.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.apiservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEF0974-BCE6-E080-6676-9F25186277B9}|InsuranceCompany.ApiService\\InsuranceCompany.ApiService.csproj|solutionrelative:insurancecompany.apiservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\components\\pages\\product\\indexproduct.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\components\\pages\\product\\indexproduct.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\components\\pages\\product\\updateproduct.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\components\\pages\\product\\updateproduct.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\components\\pages\\product\\createproduct.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\components\\pages\\product\\createproduct.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\components\\layout\\emptylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\components\\layout\\emptylayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\components\\pages\\login\\logout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\components\\pages\\login\\logout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\components\\pages\\login\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\components\\pages\\login\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.web\\authentication\\customauthstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D835F5E-C240-1206-79DA-94B81DC7254F}|InsuranceCompany.Web\\InsuranceCompany.Web.csproj|solutionrelative:insurancecompany.web\\authentication\\customauthstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEF0974-BCE6-E080-6676-9F25186277B9}|InsuranceCompany.ApiService\\InsuranceCompany.ApiService.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEF0974-BCE6-E080-6676-9F25186277B9}|InsuranceCompany.ApiService\\InsuranceCompany.ApiService.csproj|solutionrelative:insurancecompany.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D101CFB-B229-4374-8281-29C612E22688}|InsuranceCompany.Models\\InsuranceCompany.Model.csproj|c:\\users\\macak\\projects\\insurancecompany02\\insurancecompanywebapi\\insurancecompany.models\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D101CFB-B229-4374-8281-29C612E22688}|InsuranceCompany.Models\\InsuranceCompany.Model.csproj|solutionrelative:insurancecompany.models\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "InsuranceCompany.Web\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-21T12:32:15.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexProduct.razor",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Pages\\Product\\IndexProduct.razor",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\Components\\Pages\\Product\\IndexProduct.razor",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Pages\\Product\\IndexProduct.razor",
+              "RelativeToolTip": "InsuranceCompany.Web\\Components\\Pages\\Product\\IndexProduct.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-21T12:29:06.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProduct.razor.cs",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Pages\\Product\\UpdateProduct.razor.cs",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\Components\\Pages\\Product\\UpdateProduct.razor.cs",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Pages\\Product\\UpdateProduct.razor.cs",
+              "RelativeToolTip": "InsuranceCompany.Web\\Components\\Pages\\Product\\UpdateProduct.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:27:04.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProduct.razor.cs",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Pages\\Product\\CreateProduct.razor.cs",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\Components\\Pages\\Product\\CreateProduct.razor.cs",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Pages\\Product\\CreateProduct.razor.cs",
+              "RelativeToolTip": "InsuranceCompany.Web\\Components\\Pages\\Product\\CreateProduct.razor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:26:51.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexProduct.razor.cs",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Pages\\Product\\IndexProduct.razor.cs",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\Components\\Pages\\Product\\IndexProduct.razor.cs",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Pages\\Product\\IndexProduct.razor.cs",
+              "RelativeToolTip": "InsuranceCompany.Web\\Components\\Pages\\Product\\IndexProduct.razor.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:25:58.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\appsettings.json",
+              "RelativeToolTip": "InsuranceCompany.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-21T12:21:40.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\ApiClient.cs",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\ApiClient.cs",
+              "RelativeToolTip": "InsuranceCompany.Web\\ApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T11:36:20.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logout.razor",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Pages\\Login\\Logout.razor",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\Components\\Pages\\Login\\Logout.razor",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Pages\\Login\\Logout.razor",
+              "RelativeToolTip": "InsuranceCompany.Web\\Components\\Pages\\Login\\Logout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-21T11:06:04.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Routes.razor",
+              "RelativeToolTip": "InsuranceCompany.Web\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-21T11:03:08.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\App.razor",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\App.razor",
+              "RelativeToolTip": "InsuranceCompany.Web\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-21T10:50:23.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "InsuranceCompany.Web\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-21T10:19:49.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Program.cs",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Program.cs",
+              "RelativeToolTip": "InsuranceCompany.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T09:48:46.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomAuthStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Authentication\\CustomAuthStateProvider.cs",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\Authentication\\CustomAuthStateProvider.cs",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Authentication\\CustomAuthStateProvider.cs",
+              "RelativeToolTip": "InsuranceCompany.Web\\Authentication\\CustomAuthStateProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:31:50.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmptyLayout.razor",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Layout\\EmptyLayout.razor",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\Components\\Layout\\EmptyLayout.razor",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Layout\\EmptyLayout.razor",
+              "RelativeToolTip": "InsuranceCompany.Web\\Components\\Layout\\EmptyLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-21T06:44:09.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Pages\\Login\\Login.razor",
+              "RelativeDocumentMoniker": "InsuranceCompany.Web\\Components\\Pages\\Login\\Login.razor",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Web\\Components\\Pages\\Login\\Login.razor",
+              "RelativeToolTip": "InsuranceCompany.Web\\Components\\Pages\\Login\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-21T06:40:34.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ApiService\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "InsuranceCompany.ApiService\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ApiService\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "InsuranceCompany.ApiService\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T05:54:30.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "InsuranceCompany.ApiService\\Program.cs",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ApiService\\Program.cs",
+              "RelativeToolTip": "InsuranceCompany.ApiService\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T20:37:39.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Models\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "InsuranceCompany.Models\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.Models\\Models\\LoginModel.cs",
+              "RelativeToolTip": "InsuranceCompany.Models\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T18:32:10.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ApiService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "InsuranceCompany.ApiService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\macak\\projects\\InsuranceCompany02\\InsuranceCompanyWebApi\\InsuranceCompany.ApiService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "InsuranceCompany.ApiService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T18:17:55.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
