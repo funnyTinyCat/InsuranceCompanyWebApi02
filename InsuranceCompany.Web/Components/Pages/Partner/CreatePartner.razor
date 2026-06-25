@@ -1,0 +1,119 @@
+﻿@page "/partners/create"
+@using InsuranceCompany.Model.Enums
+<h3>Create Partner</h3>
+@rendermode InteractiveServer
+
+<EditForm OnValidSubmit="Submit" Model="@Model">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <div class="container">
+        <div class="row mb-3">
+            <div class="col-md-6">
+                <label>First Name</label>
+                <InputText class="form-control" @bind-Value="Model.FirstName" />
+                <ValidationMessage For="() => Model.FirstName" />
+            </div>
+            <div class="col-md-6">
+                <label>Last Name</label>
+                @* <InputNumber class="form-control" @bind-Value="model.LastName" /> *@
+                <InputText class="form-control" @bind-Value="Model.LastName" />
+                <ValidationMessage For="() => Model.LastName" />
+            </div>
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label>Address</label>
+                    <InputText class="form-control" @bind-Value="Model.Address" />
+                    <ValidationMessage For="() => Model.Address" />
+                </div>
+                <div class="col-md-6">
+                    <label>Partner Number</label>
+                    <InputText class="form-control" @bind-Value="Model.PartnerNumber" />
+                    <ValidationMessage For="() => Model.PartnerNumber" />
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label>Croatian PIN</label>
+                    <InputText class="form-control" @bind-Value="Model.CroatianPIN" />
+                    <ValidationMessage For="() => Model.CroatianPIN" />
+                </div>
+                <div class="col-md-6">
+                    <label>Partner Type</label>
+                    @* <InputNumber class="form-control" @bind-Value="Model.PartnerTypeId" />
+                     *@
+                    <InputSelect @bind-Value="Model.PartnerTypeId"
+                                 class="form-select">
+
+                        @foreach (var partnerType in PartnerTypeModels)
+                        {
+                            <option value="@partnerType.Type">
+                                @partnerType.Title
+                            </option>
+                        }
+                    </InputSelect>
+                    <ValidationMessage For="() => Model.PartnerTypeId" />
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                @* <div class="col-md-6">
+                    <label>Created At</label>
+                    <InputDate class="form-control" @bind-Value="Model.CreatedAtUtc" disabled />
+                    <ValidationMessage For="() => Model.CreatedAtUtc" />
+                </div> *@
+                <div class="col-md-6">
+                    <label>Email</label>
+                    <InputText class="form-control" @bind-Value="Model.CreateByUser" />
+                    <ValidationMessage For="() => Model.CreateByUser" />
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    @* <label>Is Foreign</label>
+                    <InputCheckbox class="form-control" @bind-Value="Model.IsForeign" /> *@
+
+                    <div class="form-check">
+                        <InputCheckbox @bind-Value="Model.IsForeign"
+                                       class="form-check-input" />
+                        <label class="form-check-label">
+                            Is Foreign
+                        </label>
+                    </div>
+
+                    <ValidationMessage For="() => Model.IsForeign" />
+                </div> 
+                <div class="col-md-6">
+                    <label>External Code</label>
+                    <InputText class="form-control" @bind-Value="Model.ExternalCode" />
+                    <ValidationMessage For="() => Model.ExternalCode" />
+                </div>
+            </div>
+
+            @* <div class="row mb-3">
+                <div class="col-md-6">
+                    <label>Gender</label>
+                    <InputText class="form-control" @bind-Value="Model.Gender" />
+                    <ValidationMessage For="() => Model.Gender" />
+                </div>
+            </div> *@
+
+             <div class="row mb-3">
+                <div class="col-md-6">
+                    <label>Gender</label>
+                    <InputSelect @bind-Value="Model.Gender"
+                                 class="form-select">
+                        @* <option value="">Select gender...</option> *@
+                        @foreach (var value in Enum.GetValues<Gender>())
+                        {
+                            <option value="@value">@value</option>
+                        }
+                    </InputSelect>
+                    <ValidationMessage For="() => Model.Gender" />
+                </div>
+            </div>
+        </div>
+        <button class="btn btn-secondary" type="submit">Save</button>
+    </div>
+</EditForm>

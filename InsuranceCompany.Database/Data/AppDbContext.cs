@@ -17,6 +17,6 @@ namespace InsuranceCompany.Database.Data
             Database.EnsureCreated();
         }
 
-        public DbSet<ProductModel> Products => Set<ProductModel>();
+        //public DbSet<ProductModel> Products => Set<ProductModel>();
     }
 }

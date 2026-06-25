@@ -24,8 +24,8 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/macak/projects/InsuranceCompany02/InsuranceCompanyWebApi/InsuranceCompany.Web/Components/BaseComponents/AppModal.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCYXNlQ29tcG9uZW50c1xBcHBNb2RhbC5yYXpvcg==
+[C:/Users/macak/projects/InsuranceCompany02/InsuranceCompanyWebApi/InsuranceCompany.Web/Components/BaseComponents/AppModalDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCYXNlQ29tcG9uZW50c1xBcHBNb2RhbERldGFpbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/macak/projects/InsuranceCompany02/InsuranceCompanyWebApi/InsuranceCompany.Web/Components/Layout/EmptyLayout.razor]
@@ -52,16 +52,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpblxMb2dvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/macak/projects/InsuranceCompany02/InsuranceCompanyWebApi/InsuranceCompany.Web/Components/Pages/Product/CreateProduct.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0XENyZWF0ZVByb2R1Y3QucmF6b3I=
+[C:/Users/macak/projects/InsuranceCompany02/InsuranceCompanyWebApi/InsuranceCompany.Web/Components/Pages/Partner/CreatePartner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJ0bmVyXENyZWF0ZVBhcnRuZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/macak/projects/InsuranceCompany02/InsuranceCompanyWebApi/InsuranceCompany.Web/Components/Pages/Product/IndexProduct.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0XEluZGV4UHJvZHVjdC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/macak/projects/InsuranceCompany02/InsuranceCompanyWebApi/InsuranceCompany.Web/Components/Pages/Product/UpdateProduct.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0XFVwZGF0ZVByb2R1Y3QucmF6b3I=
+[C:/Users/macak/projects/InsuranceCompany02/InsuranceCompanyWebApi/InsuranceCompany.Web/Components/Pages/Partner/IndexPartner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJ0bmVyXEluZGV4UGFydG5lci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/macak/projects/InsuranceCompany02/InsuranceCompanyWebApi/InsuranceCompany.Web/Components/Routes.razor]

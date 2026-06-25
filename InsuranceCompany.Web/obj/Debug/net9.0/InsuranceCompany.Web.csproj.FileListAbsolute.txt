@@ -271,3 +271,4 @@ C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompa
 C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.Web\obj\Debug\net9.0\InsuranceCompany.Web.pdb
 C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.Web\obj\Debug\net9.0\InsuranceCompany.Web.genruntimeconfig.cache
 C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.Web\obj\Debug\net9.0\ref\InsuranceCompany.Web.dll
+C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.Web\obj\Debug\net9.0\InsuranceCompany.Web.sourcelink.json

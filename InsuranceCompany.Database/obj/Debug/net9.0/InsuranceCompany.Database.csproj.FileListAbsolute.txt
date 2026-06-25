@@ -33,3 +33,4 @@ C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompa
 C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.Database\obj\Debug\net9.0\InsuranceCompany.Database.pdb
 C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.Database\obj\Debug\net9.0\InsuranceCompany.Database.genruntimeconfig.cache
 C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.Database\obj\Debug\net9.0\ref\InsuranceCompany.Database.dll
+C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.Database\obj\Debug\net9.0\InsuranceCompany.Database.sourcelink.json

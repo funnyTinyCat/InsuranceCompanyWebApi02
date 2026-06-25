@@ -33,3 +33,4 @@ C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompa
 C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.BL\obj\Debug\net9.0\refint\InsuranceCompany.BL.dll
 C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.BL\obj\Debug\net9.0\InsuranceCompany.BL.pdb
 C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.BL\obj\Debug\net9.0\ref\InsuranceCompany.BL.dll
+C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.BL\obj\Debug\net9.0\InsuranceCompany.BL.sourcelink.json

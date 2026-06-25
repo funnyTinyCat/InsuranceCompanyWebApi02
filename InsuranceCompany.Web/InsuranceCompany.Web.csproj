@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Components\Pages\Login\bck\**" />
+    <Compile Remove="Components\Pages\Product\**" />
+    <Content Remove="Components\Pages\Login\bck\**" />
+    <Content Remove="Components\Pages\Product\**" />
+    <EmbeddedResource Remove="Components\Pages\Login\bck\**" />
+    <EmbeddedResource Remove="Components\Pages\Product\**" />
+    <None Remove="Components\Pages\Login\bck\**" />
+    <None Remove="Components\Pages\Product\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="ANM.Blazored.Toast" Version="0.1.1" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />

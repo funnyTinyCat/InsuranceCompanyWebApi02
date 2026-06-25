@@ -22,3 +22,4 @@ C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompa
 C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.ServiceDefaults\obj\Debug\net9.0\refint\InsuranceCompany.ServiceDefaults.dll
 C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.ServiceDefaults\obj\Debug\net9.0\InsuranceCompany.ServiceDefaults.pdb
 C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.ServiceDefaults\obj\Debug\net9.0\ref\InsuranceCompany.ServiceDefaults.dll
+C:\Users\macak\projects\InsuranceCompany02\InsuranceCompanyWebApi\InsuranceCompany.ServiceDefaults\obj\Debug\net9.0\InsuranceCompany.ServiceDefaults.sourcelink.json

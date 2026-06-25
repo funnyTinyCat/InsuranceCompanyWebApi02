@@ -1,0 +1,129 @@
+﻿@page "/partners"
+@using Microsoft.AspNetCore.Authorization
+
+@attribute [Authorize(Roles = "Admin")]
+
+<h3>Partners</h3>
+
+@if (partnerListModels == null)
+{
+    <p>Loading ...</p>
+} 
+else
+{
+
+    <AuthorizeView Roles="Admin">
+        <Authorized>
+            <a class="btn btn-primary" href="/partners/create" >Create</a>
+        </Authorized>
+    </AuthorizeView>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Full Name</th>                
+                <th>Partner Number</th>
+                <th>Croatian PIN</th>
+                <th>Partner Type</th>
+                <th>Is Foreign</th>
+                <th>Gender</th>
+                <th>Created At</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var partner in partnerListModels)
+            {
+                // @onclick ="() => { DeleteId = product.Id; Modal.Open(); }"
+                <tr @onclick="() => { LoadPartnerDetailAsync(partner.Id); Modal.Open(); }">
+                    <td>@partner.FullName</td>
+                    <td>@partner.PartnerNumber</td>
+                    <td>@partner.CroatianPIN</td>
+                    <td>@(partner.PartnerType == null ? null : partner.PartnerType.Title)</td>
+                    <td>@partner.IsForeign</td>
+                    <td>@partner.Gender</td>
+                    <td>@partner.CreatedAtUtc.ToShortDateString()</td>
+                    <td>
+                        @* <a class="btn btn-secondary" href="/products/update/@partner.Id">Update</a> *@
+                        @* <AuthorizeView Roles="Admin">
+                            <Authorized>
+                                <button class="btn btn-danger" @onclick="() => { DeleteId = partner.Id; Modal.Open(); }">Delete</button>
+                            </Authorized>
+                        </AuthorizeView> *@
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    
+        <AppModalDetail @ref="Modal">
+            <Title>Partner details</Title>
+        <Body>
+            @if (partnerDetailModel == null)
+            {
+                <p>Loading ...</p>
+            }
+            else
+            {
+            <table class="table table-sm">
+              <thead>
+                <tr>
+                  <th scope="col">#</th>
+                  <th scope="col">#</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  
+                  <td>Full Name</td>
+                  <td>@partnerDetailModel.FullName</td>
+                </tr>
+                <tr>
+                    <td>Address</td>
+                    <td>@partnerDetailModel.Address</td>
+                </tr>
+                <tr>
+                    <td>Partner Number</td>
+                    <td>@partnerDetailModel.PartnerNumber</td>
+                </tr>
+                <tr>
+                    <td>Croatian PIN</td>
+                    <td>@partnerDetailModel.CroatianPIN</td>
+                </tr>
+                <tr>
+                    <td>Partner Type</td>
+                    <td>@(partnerDetailModel.PartnerType == null ? null : partnerDetailModel.PartnerType.Title)</td>
+                </tr>
+                <tr>
+                    <td>Created At</td>
+                    <td>@partnerDetailModel.CreatedAtUtc</td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                    <td>@partnerDetailModel.CreateByUser</td>
+                </tr>
+                <tr>
+                    <td>Is Foreign</td>
+                    <td>@partnerDetailModel.IsForeign</td>
+                </tr
+                <tr>
+                    <td>External Code</td>
+                    <td>@partnerDetailModel.ExternalCode</td>
+                </tr>
+                <tr>
+                    <td>Gender</td>
+                    <td>@partnerDetailModel.Gender</td>
+                </tr>
+                </tbody>
+            </table>
+            }
+        </Body>
+        <Footer>
+            @* <button type="button" class="btn btn-primary" style="width:80px" @onclick="HandleDeleteAsync">Yes</button> *@
+            <button type="button" class="btn btn-secondary" data-dismiss="modal" @onclick="() => Modal.Close()">Cancel</button>
+        </Footer>
+    </AppModalDetail>
+    
+}
+
+
